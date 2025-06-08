@@ -1,0 +1,259 @@
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+4	0	System	0xd88fc8f12180	194	-	N/A	False	2025-03-29 13:47:49.000000 UTC	N/A	Disabled
+100	4	Registry	0xd88fc8fe2040	4	-	N/A	False	2025-03-29 13:47:34.000000 UTC	N/A	Disabled
+436	4	smss.exe	0xd88fd0bbd2c0	2	-	N/A	False	2025-03-29 13:47:49.000000 UTC	N/A	Disabled
+652	640	csrss.exe	0xd88fd178f240	23	-	0	False	2025-03-29 13:48:16.000000 UTC	N/A	Disabled
+740	732	csrss.exe	0xd88fd31d2140	13	-	1	False	2025-03-29 13:48:18.000000 UTC	N/A	Disabled
+764	640	wininit.exe	0xd88fd3815240	1	-	0	False	2025-03-29 13:48:18.000000 UTC	N/A	Disabled
+812	732	winlogon.exe	0xd88fd31f6240	4	-	1	False	2025-03-29 13:48:18.000000 UTC	N/A	Disabled
+896	764	services.exe	0xd88fd3907080	15	-	0	False	2025-03-29 13:48:19.000000 UTC	N/A	Disabled
+916	764	lsass.exe	0xd88fd39020c0	10	-	0	False	2025-03-29 13:48:20.000000 UTC	N/A	Disabled
+8	764	fontdrvhost.ex	0xd88fd39b7080	5	-	0	False	2025-03-29 13:48:28.000000 UTC	N/A	Disabled
+584	812	fontdrvhost.ex	0xd88fd39b2240	5	-	1	False	2025-03-29 13:48:28.000000 UTC	N/A	Disabled
+576	896	WUDFHost.exe	0xd88fd39bc080	14	-	0	False	2025-03-29 13:48:28.000000 UTC	N/A	Disabled
+612	896	svchost.exe	0xd88fd39e4080	31	-	0	False	2025-03-29 13:48:28.000000 UTC	N/A	Disabled
+1068	896	WUDFHost.exe	0xd88fd38ea080	9	-	0	False	2025-03-29 13:48:32.000000 UTC	N/A	Disabled
+1104	896	svchost.exe	0xd88fd3ad8080	17	-	0	False	2025-03-29 13:48:34.000000 UTC	N/A	Disabled
+1176	896	svchost.exe	0xd88fd3ae4080	7	-	0	False	2025-03-29 13:48:37.000000 UTC	N/A	Disabled
+1264	812	dwm.exe	0xd88fd3b83140	14	-	1	False	2025-03-29 13:48:43.000000 UTC	N/A	Disabled
+1332	896	svchost.exe	0xd88fd3bbd080	4	-	0	False	2025-03-29 13:48:43.000000 UTC	N/A	Disabled
+1340	896	svchost.exe	0xd88fd3bc1080	6	-	0	False	2025-03-29 13:48:43.000000 UTC	N/A	Disabled
+1348	896	svchost.exe	0xd88fd3bc3080	8	-	0	False	2025-03-29 13:48:43.000000 UTC	N/A	Disabled
+1388	896	svchost.exe	0xd88fd3bdb080	4	-	0	False	2025-03-29 13:48:45.000000 UTC	N/A	Disabled
+1552	896	svchost.exe	0xd88fd3c62080	13	-	0	False	2025-03-29 13:48:45.000000 UTC	N/A	Disabled
+1604	896	svchost.exe	0xd88fd3cbe080	5	-	0	False	2025-03-29 13:48:48.000000 UTC	N/A	Disabled
+1612	896	svchost.exe	0xd88fd3ce4080	10	-	0	False	2025-03-29 13:48:48.000000 UTC	N/A	Disabled
+1620	896	svchost.exe	0xd88fd3ce1080	12	-	0	False	2025-03-29 13:48:48.000000 UTC	N/A	Disabled
+1656	896	svchost.exe	0xd88fd3ce5080	10	-	0	False	2025-03-29 13:48:49.000000 UTC	N/A	Disabled
+1664	896	svchost.exe	0xd88fd3cea080	12	-	0	False	2025-03-29 13:48:49.000000 UTC	N/A	Disabled
+1680	896	svchost.exe	0xd88fd3cec080	7	-	0	False	2025-03-29 13:48:49.000000 UTC	N/A	Disabled
+1688	896	svchost.exe	0xd88fd3ce8080	8	-	0	False	2025-03-29 13:48:49.000000 UTC	N/A	Disabled
+1976	896	svchost.exe	0xd88fd3de5080	10	-	0	False	2025-03-29 13:48:53.000000 UTC	N/A	Disabled
+1984	896	svchost.exe	0xd88fd3dc3080	5	-	0	False	2025-03-29 13:48:53.000000 UTC	N/A	Disabled
+2104	896	svchost.exe	0xd88fd3e460c0	6	-	0	False	2025-03-29 13:48:55.000000 UTC	N/A	Disabled
+2168	896	svchost.exe	0xd88fd3ec0080	10	-	0	False	2025-03-29 13:48:57.000000 UTC	N/A	Disabled
+2276	896	svchost.exe	0xd88fd3e7a0c0	7	-	0	False	2025-03-29 13:48:59.000000 UTC	N/A	Disabled
+2320	2276	dasHost.exe	0xd88fd3e86080	24	-	0	False	2025-03-29 13:49:02.000000 UTC	N/A	Disabled
+2412	896	svchost.exe	0xd88fd3fc2080	22	-	0	False	2025-03-29 13:49:04.000000 UTC	N/A	Disabled
+2468	896	igfxCUIService	0xd88fd3ece080	5	-	0	False	2025-03-29 13:49:07.000000 UTC	N/A	Disabled
+2480	896	svchost.exe	0xd88fd3ed2080	21	-	0	False	2025-03-29 13:49:07.000000 UTC	N/A	Disabled
+2508	896	svchost.exe	0xd88fd3ed4080	7	-	0	False	2025-03-29 13:49:09.000000 UTC	N/A	Disabled
+2520	896	svchost.exe	0xd88fd3feb080	4	-	0	False	2025-03-29 13:49:09.000000 UTC	N/A	Disabled
+2528	896	svchost.exe	0xd88fd3fe1080	3	-	0	False	2025-03-29 13:49:13.000000 UTC	N/A	Disabled
+2632	896	svchost.exe	0xd88fd407d080	4	-	0	False	2025-03-29 13:49:13.000000 UTC	N/A	Disabled
+2640	896	svchost.exe	0xd88fd407f080	6	-	0	False	2025-03-29 13:49:13.000000 UTC	N/A	Disabled
+2732	896	svchost.exe	0xd88fd40ba0c0	12	-	0	False	2025-03-29 13:49:14.000000 UTC	N/A	Disabled
+2780	896	svchost.exe	0xd88fd4141080	38	-	0	False	2025-03-29 13:49:14.000000 UTC	N/A	Disabled
+2840	896	svchost.exe	0xd88fd41880c0	12	-	0	False	2025-03-29 13:49:15.000000 UTC	N/A	Disabled
+2852	4	MemCompression	0xd88fd418b040	174	-	N/A	False	2025-03-29 13:49:15.000000 UTC	N/A	Disabled
+1732	896	RtkAudioServic	0xd88fd4271080	6	-	0	False	2025-03-29 13:49:16.000000 UTC	N/A	Disabled
+1720	896	svchost.exe	0xd88fd42c9080	7	-	0	False	2025-03-29 13:49:17.000000 UTC	N/A	Disabled
+2900	1732	RAVBg64.exe	0xd88fd4366080	7	-	1	False	2025-03-29 13:49:18.000000 UTC	N/A	Disabled
+3188	896	svchost.exe	0xd88fd4405080	7	-	0	False	2025-03-29 13:49:19.000000 UTC	N/A	Disabled
+3208	896	svchost.exe	0xd88fd4408080	7	-	0	False	2025-03-29 13:49:19.000000 UTC	N/A	Disabled
+3272	896	svchost.exe	0xd88fd443e080	7	-	0	False	2025-03-29 13:49:19.000000 UTC	N/A	Disabled
+3280	896	svchost.exe	0xd88fd4441080	17	-	0	False	2025-03-29 13:49:19.000000 UTC	N/A	Disabled
+3288	896	svchost.exe	0xd88fd4444080	14	-	0	False	2025-03-29 13:49:19.000000 UTC	N/A	Disabled
+3428	2276	dasHost.exe	0xd88fd4466080	1	-	0	False	2025-03-29 13:49:20.000000 UTC	N/A	Disabled
+3588	896	svchost.exe	0xd88fd4521080	14	-	0	False	2025-03-29 13:49:21.000000 UTC	N/A	Disabled
+3668	896	svchost.exe	0xd88fd45b5080	8	-	0	False	2025-03-29 13:49:24.000000 UTC	N/A	Disabled
+3708	896	spoolsv.exe	0xd88fd45d8080	12	-	0	False	2025-03-29 13:49:24.000000 UTC	N/A	Disabled
+3768	896	svchost.exe	0xd88fd45ef080	21	-	0	False	2025-03-29 13:49:25.000000 UTC	N/A	Disabled
+3820	896	svchost.exe	0xd88fd469f080	6	-	0	False	2025-03-29 13:49:26.000000 UTC	N/A	Disabled
+3972	896	svchost.exe	0xd88fd46e1080	9	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+3984	896	svchost.exe	0xd88fd46e0080	3	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+3992	896	svchost.exe	0xd88fd47240c0	10	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4012	896	svchost.exe	0xd88fd46ea080	18	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+3848	896	svchost.exe	0xd88fd475e080	3	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+2144	896	DbxSvc.exe	0xd88fd4763080	25	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+3840	896	RegSrvc.exe	0xd88fd47642c0	5	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+600	896	IntelCpHDCPSvc	0xd88fd4765080	5	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+956	896	esif_uf.exe	0xd88fd476f080	5	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4104	896	ZeroConfigServ	0xd88fd4772080	25	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4112	896	mDNSResponder.	0xd88fd4775080	5	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4120	896	EvtEng.exe	0xd88fd47c90c0	21	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4132	896	svchost.exe	0xd88fd47ce080	9	-	0	False	2025-03-29 13:49:28.000000 UTC	N/A	Disabled
+4144	896	svchost.exe	0xd88fd47d1080	2	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4156	896	svchost.exe	0xd88fd46b50c0	25	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4168	896	NetworkCap.exe	0xd88fd46c3080	6	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4176	896	ibtsiva.exe	0xd88fd47780c0	4	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4200	896	SysInfoCap.exe	0xd88fd477e080	13	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4212	896	svchost.exe	0xd88fd477c080	13	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4220	896	armsvc.exe	0xd88fd4773080	3	-	0	True	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4232	896	HPWMISVC.exe	0xd88fd475c080	3	-	0	True	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4228	896	SBPIMSvc.exe	0xd88fd4776080	5	-	0	True	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4252	896	service.exe	0xd88fd4770080	12	-	0	True	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4264	896	OfficeClickToR	0xd88fd47b2080	22	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4304	896	svchost.exe	0xd88fd477d080	14	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4332	896	WMIRegistratio	0xd88fd48640c0	3	-	0	True	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4340	896	jhi_service.ex	0xd88fd47ba080	3	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4348	896	SynTPEnhServic	0xd88fd47d8080	7	-	0	False	2025-03-29 13:49:29.000000 UTC	N/A	Disabled
+4376	896	TeamViewer_Ser	0xd88fd47d6080	18	-	0	True	2025-03-29 13:49:30.000000 UTC	N/A	Disabled
+4388	896	AppHelperCap.e	0xd88fd486b080	6	-	0	False	2025-03-29 13:49:30.000000 UTC	N/A	Disabled
+4396	896	DiagsCap.exe	0xd88fd486e080	6	-	0	False	2025-03-29 13:49:30.000000 UTC	N/A	Disabled
+4564	896	svchost.exe	0xd88fd48db0c0	10	-	0	False	2025-03-29 13:49:30.000000 UTC	N/A	Disabled
+4804	896	svchost.exe	0xd88fd4992080	3	-	0	False	2025-03-29 13:49:34.000000 UTC	N/A	Disabled
+4964	896	IntelCpHeciSvc	0xd88fd4a8d080	5	-	0	False	2025-03-29 13:49:35.000000 UTC	N/A	Disabled
+5080	3588	wlanext.exe	0xd88fd4ac70c0	11	-	0	False	2025-03-29 13:49:38.000000 UTC	N/A	Disabled
+5100	896	svchost.exe	0xd88fd4ad0080	7	-	0	False	2025-03-29 13:49:39.000000 UTC	N/A	Disabled
+5116	5080	conhost.exe	0xd88fd4ad1080	3	-	0	False	2025-03-29 13:49:39.000000 UTC	N/A	Disabled
+2196	896	svchost.exe	0xd88fd4ad4080	10	-	0	False	2025-03-29 13:49:39.000000 UTC	N/A	Disabled
+5352	896	svchost.exe	0xd88fd4bd50c0	16	-	0	False	2025-03-29 13:49:42.000000 UTC	N/A	Disabled
+5992	896	svchost.exe	0xd88fd4fdc080	3	-	0	False	2025-03-29 13:49:56.000000 UTC	N/A	Disabled
+1780	896	svchost.exe	0xd88fd51c4080	4	-	0	False	2025-03-29 13:50:04.000000 UTC	N/A	Disabled
+6484	612	unsecapp.exe	0xd88fd542e080	4	-	0	False	2025-03-29 13:50:15.000000 UTC	N/A	Disabled
+6568	612	dllhost.exe	0xd88fd54a4080	6	-	0	False	2025-03-29 13:50:15.000000 UTC	N/A	Disabled
+6984	612	WmiPrvSE.exe	0xd88fd52e1080	6	-	0	False	2025-03-29 13:50:21.000000 UTC	N/A	Disabled
+1724	896	svchost.exe	0xd88fd56c1080	7	-	0	False	2025-03-29 13:50:24.000000 UTC	N/A	Disabled
+6732	896	svchost.exe	0xd88fd51e90c0	6	-	0	False	2025-03-29 13:50:24.000000 UTC	N/A	Disabled
+3780	896	svchost.exe	0xd88fd5803080	15	-	0	False	2025-03-29 13:50:26.000000 UTC	N/A	Disabled
+6824	896	SearchIndexer.	0xd88fd55690c0	20	-	0	False	2025-03-29 13:50:37.000000 UTC	N/A	Disabled
+4676	4332	mofcomp.exe	0xd88fd3c65080	0	-	0	True	2025-03-29 13:50:40.000000 UTC	2025-03-29 13:50:50.000000 UTC	Disabled
+6828	896	svchost.exe	0xd88fd5691080	11	-	0	False	2025-03-29 13:50:42.000000 UTC	N/A	Disabled
+4640	4332	mofcomp.exe	0xd88fd48fa080	0	-	0	True	2025-03-29 13:50:50.000000 UTC	2025-03-29 13:50:52.000000 UTC	Disabled
+4996	4012	AggregatorHost	0xd88fd3ccf0c0	6	-	0	False	2025-03-29 13:51:03.000000 UTC	N/A	Disabled
+4892	896	svchost.exe	0xd88fd5709080	15	-	0	False	2025-03-29 13:52:18.000000 UTC	N/A	Disabled
+6500	896	svchost.exe	0xd88fd55d7080	0	-	0	False	2025-03-29 13:52:35.000000 UTC	2025-03-29 13:54:38.000000 UTC	Disabled
+5616	896	svchost.exe	0xd88fd52e7080	13	-	0	False	2025-03-29 13:52:47.000000 UTC	N/A	Disabled
+3532	7148	DropboxCrashHa	0xd88fd3ceb080	4	-	0	True	2025-03-29 13:52:48.000000 UTC	N/A	Disabled
+1560	896	svchost.exe	0xd88fd4721080	4	-	0	False	2025-03-29 13:52:54.000000 UTC	N/A	Disabled
+6560	896	HPCommRecovery	0xd88fd55db080	14	-	0	False	2025-03-29 13:52:54.000000 UTC	N/A	Disabled
+6780	896	HPSupportSolut	0xd88fd5dfc080	9	-	0	False	2025-03-29 13:52:57.000000 UTC	N/A	Disabled
+8056	896	LMS.exe	0xd88fd614a080	7	-	0	True	2025-03-29 13:53:39.000000 UTC	N/A	Disabled
+3608	896	RichVideo64.ex	0xd88fd5d83080	5	-	0	False	2025-03-29 13:54:55.000000 UTC	N/A	Disabled
+7292	896	SBAMSvc.exe	0xd88fd60d0080	69	-	0	True	2025-03-29 13:54:55.000000 UTC	N/A	Disabled
+7228	896	svchost.exe	0xd88fd4894080	13	-	0	False	2025-03-29 13:55:34.000000 UTC	N/A	Disabled
+6160	612	AVCProxy.exe	0xd88fd71b0080	7	-	0	False	2025-03-29 13:57:35.000000 UTC	N/A	Disabled
+6916	896	svchost.exe	0xd88fd6a31080	8	-	0	False	2025-03-29 13:57:43.000000 UTC	N/A	Disabled
+1480	956	esif_assist_64	0xd88fd68c72c0	4	-	1	False	2025-03-29 13:57:59.000000 UTC	N/A	Disabled
+1200	3208	sihost.exe	0xd88fd7231280	19	-	1	False	2025-03-29 13:58:00.000000 UTC	N/A	Disabled
+7696	4200	BridgeCommunic	0xd88fd7345080	0	-	1	False	2025-03-29 13:58:00.000000 UTC	2025-03-29 14:48:21.000000 UTC	Disabled
+1320	4348	SynTPEnh.exe	0xd88fd7233080	9	-	1	False	2025-03-29 13:58:01.000000 UTC	N/A	Disabled
+7856	896	svchost.exe	0xd88fd722f080	13	-	1	False	2025-03-29 13:58:03.000000 UTC	N/A	Disabled
+6504	896	svchost.exe	0xd88fd73d2080	21	-	1	False	2025-03-29 13:58:03.000000 UTC	N/A	Disabled
+5736	1320	SynTPEnh.exe	0xd88fd73d3080	0	-	1	False	2025-03-29 13:58:03.000000 UTC	2025-03-29 13:58:19.000000 UTC	Disabled
+7420	896	svchost.exe	0xd88fd52e40c0	7	-	0	False	2025-03-29 13:58:05.000000 UTC	N/A	Disabled
+7408	2480	taskhostw.exe	0xd88fd7407280	9	-	1	False	2025-03-29 13:58:05.000000 UTC	N/A	Disabled
+7592	896	PresentationFo	0xd88fd7448080	5	-	0	False	2025-03-29 13:58:05.000000 UTC	N/A	Disabled
+7680	896	svchost.exe	0xd88fd7519080	3	-	0	False	2025-03-29 13:58:07.000000 UTC	N/A	Disabled
+7572	4200	BridgeCommunic	0xd88fd754e080	0	-	1	False	2025-03-29 13:58:10.000000 UTC	2025-03-29 13:58:17.000000 UTC	Disabled
+8788	812	userinit.exe	0xd88fd7662340	0	-	1	False	2025-03-29 13:58:16.000000 UTC	2025-03-29 13:58:33.000000 UTC	Disabled
+8904	5736	SynTPHelper.ex	0xd88fd76c5080	1	-	1	False	2025-03-29 13:58:16.000000 UTC	N/A	Disabled
+8920	4200	BridgeCommunic	0xd88fd76c4080	0	-	1	False	2025-03-29 13:58:17.000000 UTC	2025-03-29 14:08:17.000000 UTC	Disabled
+9056	8788	explorer.exe	0xd88fd76da080	84	-	1	False	2025-03-29 13:58:18.000000 UTC	N/A	Disabled
+9100	896	svchost.exe	0xd88fd76d7080	10	-	0	False	2025-03-29 13:58:18.000000 UTC	N/A	Disabled
+8868	4432	igfxEM.exe	0xd88fd7669080	14	-	1	False	2025-03-29 13:58:22.000000 UTC	N/A	Disabled
+7412	2480	CoolSense.exe	0xd88fd789e080	4	-	1	True	2025-03-29 13:58:34.000000 UTC	N/A	Disabled
+8684	896	svchost.exe	0xd88fd7381080	12	-	0	False	2025-03-29 13:58:36.000000 UTC	N/A	Disabled
+8612	896	svchost.exe	0xd88fd78c2080	5	-	1	False	2025-03-29 13:58:37.000000 UTC	N/A	Disabled
+9332	612	StartMenuExper	0xd88fd78e8080	10	-	1	False	2025-03-29 13:58:44.000000 UTC	N/A	Disabled
+9644	612	RuntimeBroker.	0xd88fd7a81080	3	-	1	False	2025-03-29 13:58:47.000000 UTC	N/A	Disabled
+9932	612	TextInputHost.	0xd88fd76dd300	11	-	1	False	2025-03-29 13:58:52.000000 UTC	N/A	Disabled
+10096	1604	ctfmon.exe	0xd88fd7b430c0	11	-	1	False	2025-03-29 13:59:00.000000 UTC	N/A	Disabled
+10124	1604	TabTip.exe	0xd88fd7b760c0	9	-	1	False	2025-03-29 13:59:00.000000 UTC	N/A	Disabled
+8284	612	RuntimeBroker.	0xd88fd71e9080	15	-	1	False	2025-03-29 13:59:02.000000 UTC	N/A	Disabled
+11840	9056	RtkNGUI64.exe	0xd88fd848b0c0	8	-	1	False	2025-03-29 13:59:23.000000 UTC	N/A	Disabled
+12196	896	hpqwmiex.exe	0xd88fd83130c0	5	-	0	True	2025-03-29 13:59:31.000000 UTC	N/A	Disabled
+8260	896	svchost.exe	0xd88fd82a8080	7	-	1	False	2025-03-29 14:00:03.000000 UTC	N/A	Disabled
+11556	896	svchost.exe	0xd88fd81b0080	6	-	0	False	2025-03-29 14:00:12.000000 UTC	N/A	Disabled
+10828	896	SecurityHealth	0xd88fd84a7080	7	-	0	False	2025-03-29 14:01:07.000000 UTC	N/A	Disabled
+9664	9056	chrome.exe	0xd88fd7c32080	0	-	1	False	2025-03-29 14:03:22.000000 UTC	2025-03-29 14:03:32.000000 UTC	Disabled
+3252	9664	chrome.exe	0xd88fd8171300	0	-	1	False	2025-03-29 14:03:27.000000 UTC	2025-03-29 14:03:31.000000 UTC	Disabled
+4940	9664	chrome.exe	0xd88fd8b14080	46	-	1	False	2025-03-29 14:03:31.000000 UTC	N/A	Disabled
+11984	4940	chrome.exe	0xd88fd89f0080	8	-	1	False	2025-03-29 14:03:32.000000 UTC	N/A	Disabled
+9120	4940	chrome.exe	0xd88fd869f080	17	-	1	False	2025-03-29 14:03:35.000000 UTC	N/A	Disabled
+8048	4940	chrome.exe	0xd88fd5a74080	20	-	1	False	2025-03-29 14:03:35.000000 UTC	N/A	Disabled
+2500	4940	chrome.exe	0xd88fda55b0c0	11	-	1	False	2025-03-29 14:03:36.000000 UTC	N/A	Disabled
+11920	4940	chrome.exe	0xd88fd817a080	16	-	1	False	2025-03-29 14:03:39.000000 UTC	N/A	Disabled
+7052	4940	chrome.exe	0xd88fda56a080	17	-	1	False	2025-03-29 14:03:41.000000 UTC	N/A	Disabled
+9448	896	svchost.exe	0xd88fd787f080	7	-	0	False	2025-03-29 14:05:25.000000 UTC	N/A	Disabled
+9428	896	svchost.exe	0xd88fd7380080	0	-	0	False	2025-03-29 14:05:36.000000 UTC	2025-03-29 14:12:54.000000 UTC	Disabled
+12344	612	PhoneExperienc	0xd88fda63c080	19	-	1	False	2025-03-29 14:06:47.000000 UTC	N/A	Disabled
+10108	4200	BridgeCommunic	0xd88fd3e4d080	0	-	1	False	2025-03-29 14:08:17.000000 UTC	2025-03-29 14:08:18.000000 UTC	Disabled
+8292	4200	BridgeCommunic	0xd88fd8b4b0c0	0	-	1	False	2025-03-29 14:08:18.000000 UTC	2025-03-29 14:18:18.000000 UTC	Disabled
+13968	14180	AdobeCollabSyn	0xd88fd84d6080	10	-	1	True	2025-03-29 14:10:37.000000 UTC	N/A	Disabled
+13796	13968	AdobeCollabSyn	0xd88fd73f0080	19	-	1	True	2025-03-29 14:10:46.000000 UTC	N/A	Disabled
+5544	612	SearchApp.exe	0xd88fd8f6c080	36	-	1	False	2025-03-29 14:11:23.000000 UTC	N/A	Disabled
+11748	612	SDXHelper.exe	0xd88fd81c9080	19	-	1	True	2025-03-29 14:13:55.000000 UTC	N/A	Disabled
+6012	4200	BridgeCommunic	0xd88fd77d2080	0	-	1	False	2025-03-29 14:18:18.000000 UTC	2025-03-29 14:18:19.000000 UTC	Disabled
+11688	4200	BridgeCommunic	0xd88fda140080	0	-	1	False	2025-03-29 14:18:19.000000 UTC	2025-03-29 14:28:19.000000 UTC	Disabled
+12460	612	ApplicationFra	0xd88fd9de1080	7	-	1	False	2025-03-29 14:19:37.000000 UTC	N/A	Disabled
+9716	612	SystemSettings	0xd88fda222080	24	-	1	False	2025-03-29 14:19:37.000000 UTC	N/A	Disabled
+11344	612	UserOOBEBroker	0xd88fd8c79340	3	-	1	False	2025-03-29 14:19:40.000000 UTC	N/A	Disabled
+14312	612	SearchApp.exe	0xd88fd7a80080	13	-	1	False	2025-03-29 14:25:37.000000 UTC	N/A	Disabled
+13460	14312	msedgewebview2	0xd88fda3eb080	52	-	1	False	2025-03-29 14:25:38.000000 UTC	N/A	Disabled
+12912	13460	msedgewebview2	0xd88fd74d4080	8	-	1	False	2025-03-29 14:25:39.000000 UTC	N/A	Disabled
+14012	13460	msedgewebview2	0xd88fd8f8f340	18	-	1	False	2025-03-29 14:25:39.000000 UTC	N/A	Disabled
+1356	13460	msedgewebview2	0xd88fd829d300	18	-	1	False	2025-03-29 14:25:39.000000 UTC	N/A	Disabled
+13920	13460	msedgewebview2	0xd88fda10f300	8	-	1	False	2025-03-29 14:25:39.000000 UTC	N/A	Disabled
+13224	13460	msedgewebview2	0xd88fda174080	17	-	1	False	2025-03-29 14:25:39.000000 UTC	N/A	Disabled
+3616	612	AcrobatNotific	0xd88fd909a080	13	-	1	True	2025-03-29 14:26:06.000000 UTC	N/A	Disabled
+10020	13968	Acrobat.exe	0xd88fd949d080	0	-	1	True	2025-03-29 14:26:06.000000 UTC	2025-03-29 14:26:13.000000 UTC	Disabled
+13052	612	RuntimeBroker.	0xd88fd8dd4080	3	-	1	False	2025-03-29 14:26:12.000000 UTC	N/A	Disabled
+13864	11724	msedge.exe	0xd88fd8cb8080	65	-	1	False	2025-03-29 14:27:50.000000 UTC	N/A	Disabled
+13260	13864	msedge.exe	0xd88fd94af080	7	-	1	False	2025-03-29 14:27:53.000000 UTC	N/A	Disabled
+13044	13864	msedge.exe	0xd88fd8d2a080	18	-	1	False	2025-03-29 14:27:54.000000 UTC	N/A	Disabled
+400	13864	msedge.exe	0xd88fd819a080	21	-	1	False	2025-03-29 14:27:54.000000 UTC	N/A	Disabled
+8040	13864	msedge.exe	0xd88fd8c311c0	11	-	1	False	2025-03-29 14:27:55.000000 UTC	N/A	Disabled
+8880	13864	msedge.exe	0xd88fd801f300	17	-	1	False	2025-03-29 14:27:56.000000 UTC	N/A	Disabled
+7756	13864	msedge.exe	0xd88fdb55b2c0	20	-	1	False	2025-03-29 14:27:56.000000 UTC	N/A	Disabled
+8476	612	Video.UI.exe	0xd88fdb6c9080	14	-	1	False	2025-03-29 14:28:13.000000 UTC	N/A	Disabled
+2064	4200	BridgeCommunic	0xd88fdb586080	0	-	1	False	2025-03-29 14:28:19.000000 UTC	2025-03-29 14:28:19.000000 UTC	Disabled
+11080	4200	BridgeCommunic	0xd88fdb7ee080	0	-	1	False	2025-03-29 14:28:19.000000 UTC	2025-03-29 14:38:20.000000 UTC	Disabled
+3168	612	RuntimeBroker.	0xd88fdb9c90c0	3	-	1	False	2025-03-29 14:28:22.000000 UTC	N/A	Disabled
+6248	13864	msedge.exe	0xd88fdb8be080	16	-	1	False	2025-03-29 14:28:32.000000 UTC	N/A	Disabled
+12652	13864	msedge.exe	0xd88fdb8c5080	16	-	1	False	2025-03-29 14:28:32.000000 UTC	N/A	Disabled
+6188	13864	msedge.exe	0xd88fdb975080	16	-	1	False	2025-03-29 14:28:32.000000 UTC	N/A	Disabled
+5540	13864	msedge.exe	0xd88fdbab5080	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+7832	13864	msedge.exe	0xd88fdbbc6240	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+4532	13864	msedge.exe	0xd88fdbc1b080	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+13376	13864	msedge.exe	0xd88fdbc1f240	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+5704	13864	msedge.exe	0xd88fdbc85080	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+10588	13864	msedge.exe	0xd88fdbca8080	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+212	13864	msedge.exe	0xd88fdbd4c240	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+9536	13864	msedge.exe	0xd88fdbdad240	16	-	1	False	2025-03-29 14:28:36.000000 UTC	N/A	Disabled
+12560	13864	msedge.exe	0xd88fdbb53300	16	-	1	False	2025-03-29 14:28:37.000000 UTC	N/A	Disabled
+9712	13864	msedge.exe	0xd88fdbb2a240	16	-	1	False	2025-03-29 14:28:37.000000 UTC	N/A	Disabled
+6880	13864	msedge.exe	0xd88fdc0aa080	16	-	1	False	2025-03-29 14:28:40.000000 UTC	N/A	Disabled
+3796	13864	msedge.exe	0xd88fdc028240	16	-	1	False	2025-03-29 14:28:40.000000 UTC	N/A	Disabled
+11664	13864	msedge.exe	0xd88fdc21d240	16	-	1	False	2025-03-29 14:28:42.000000 UTC	N/A	Disabled
+13380	13864	msedge.exe	0xd88fdc0dc240	16	-	1	False	2025-03-29 14:28:51.000000 UTC	N/A	Disabled
+10812	13864	msedge.exe	0xd88fdba2a080	0	-	1	False	2025-03-29 14:28:51.000000 UTC	2025-03-29 14:29:10.000000 UTC	Disabled
+8760	13864	msedge.exe	0xd88fd8c51080	16	-	1	False	2025-03-29 14:28:55.000000 UTC	N/A	Disabled
+11076	13864	msedge.exe	0xd88fdba87080	11	-	1	False	2025-03-29 14:28:57.000000 UTC	N/A	Disabled
+4744	13864	msedge.exe	0xd88fdbe7b240	16	-	1	False	2025-03-29 14:28:57.000000 UTC	N/A	Disabled
+11988	612	RuntimeBroker.	0xd88fdba16080	5	-	1	False	2025-03-29 14:28:57.000000 UTC	N/A	Disabled
+6960	13864	msedge.exe	0xd88fdbb07080	16	-	1	False	2025-03-29 14:28:57.000000 UTC	N/A	Disabled
+6656	612	CompPkgSrv.exe	0xd88fdbf4e080	3	-	1	False	2025-03-29 14:29:11.000000 UTC	N/A	Disabled
+664	13864	msedge.exe	0xd88fdbf970c0	16	-	1	False	2025-03-29 14:29:22.000000 UTC	N/A	Disabled
+13216	13864	msedge.exe	0xd88fdbbd10c0	16	-	1	False	2025-03-29 14:29:23.000000 UTC	N/A	Disabled
+14872	13864	msedge.exe	0xd88fdb7e7080	11	-	1	False	2025-03-29 14:30:23.000000 UTC	N/A	Disabled
+7288	13864	msedge.exe	0xd88fd84fb2c0	16	-	1	False	2025-03-29 14:31:13.000000 UTC	N/A	Disabled
+14712	13864	msedge.exe	0xd88fdc0a0080	18	-	1	False	2025-03-29 14:31:38.000000 UTC	N/A	Disabled
+14568	13864	msedge.exe	0xd88fd8c9e080	19	-	1	False	2025-03-29 14:31:43.000000 UTC	N/A	Disabled
+15136	13864	msedge.exe	0xd88fdbe750c0	15	-	1	False	2025-03-29 14:32:32.000000 UTC	N/A	Disabled
+820	4200	BridgeCommunic	0xd88fdbff1080	0	-	1	False	2025-03-29 14:38:20.000000 UTC	2025-03-29 14:38:20.000000 UTC	Disabled
+12392	4200	BridgeCommunic	0xd88fdbed9080	0	-	1	False	2025-03-29 14:38:20.000000 UTC	2025-03-29 14:48:20.000000 UTC	Disabled
+8288	4200	BridgeCommunic	0xd88fdbb91080	0	-	1	False	2025-03-29 14:48:20.000000 UTC	2025-03-29 14:48:21.000000 UTC	Disabled
+9412	4200	BridgeCommunic	0xd88fdc099080	0	-	1	False	2025-03-29 14:48:21.000000 UTC	2025-03-29 14:58:21.000000 UTC	Disabled
+936	4940	chrome.exe	0xd88fdadd7080	19	-	1	False	2025-03-29 14:48:54.000000 UTC	N/A	Disabled
+7700	4940	chrome.exe	0xd88fdbf1d080	11	-	1	False	2025-03-29 14:50:42.000000 UTC	N/A	Disabled
+15300	4940	chrome.exe	0xd88fdb529080	19	-	1	False	2025-03-29 14:50:46.000000 UTC	N/A	Disabled
+8992	4940	chrome.exe	0xd88fdc4a5300	16	-	1	False	2025-03-29 14:50:51.000000 UTC	N/A	Disabled
+3500	4940	chrome.exe	0xd88fdb2da080	16	-	1	False	2025-03-29 14:51:23.000000 UTC	N/A	Disabled
+15240	4940	chrome.exe	0xd88fdc494300	16	-	1	False	2025-03-29 14:51:23.000000 UTC	N/A	Disabled
+5200	4940	chrome.exe	0xd88fdb3c4300	16	-	1	False	2025-03-29 14:51:23.000000 UTC	N/A	Disabled
+14592	4940	chrome.exe	0xd88fdc450300	16	-	1	False	2025-03-29 14:52:58.000000 UTC	N/A	Disabled
+2752	4940	chrome.exe	0xd88fd9e98080	0	-	1	False	2025-03-29 14:53:06.000000 UTC	2025-03-29 14:53:14.000000 UTC	Disabled
+12356	4940	chrome.exe	0xd88fdc071300	16	-	1	False	2025-03-29 14:53:07.000000 UTC	N/A	Disabled
+5212	4940	chrome.exe	0xd88fdc48c080	10	-	1	False	2025-03-29 14:53:09.000000 UTC	N/A	Disabled
+3468	9056	rundll32.exe	0xd88fdc1f1080	3	-	1	False	2025-03-29 14:55:31.000000 UTC	N/A	Disabled
+3464	4200	BridgeCommunic	0xd88fd810d080	0	-	1	False	2025-03-29 14:58:21.000000 UTC	2025-03-29 14:58:21.000000 UTC	Disabled
+14612	4200	BridgeCommunic	0xd88fdc498080	0	-	1	False	2025-03-29 14:58:21.000000 UTC	2025-03-29 15:52:29.000000 UTC	Disabled
+9808	896	svchost.exe	0xd88fdbbdf080	3	-	0	False	2025-03-29 15:50:02.000000 UTC	N/A	Disabled
+11308	896	svchost.exe	0xd88fdbccd080	17	-	0	False	2025-03-29 15:55:24.000000 UTC	N/A	Disabled
+13496	896	svchost.exe	0xd88fdce92080	5	-	0	False	2025-03-29 16:03:37.000000 UTC	N/A	Disabled
+16640	4940	chrome.exe	0xd88fd9fe8080	0	-	1	False	2025-03-29 18:59:34.000000 UTC	2025-03-29 19:00:04.000000 UTC	Disabled
+0	0		0xd88fdc43a080	0	-	N/A	False	N/A	N/A	Disabled
+ajjeffreys@AJs-MacBook-Pro volatility3 % 
