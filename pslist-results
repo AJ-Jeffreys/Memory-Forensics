@@ -256,4 +256,4 @@ PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	Exit
 13496	896	svchost.exe	0xd88fdce92080	5	-	0	False	2025-03-29 16:03:37.000000 UTC	N/A	Disabled
 16640	4940	chrome.exe	0xd88fd9fe8080	0	-	1	False	2025-03-29 18:59:34.000000 UTC	2025-03-29 19:00:04.000000 UTC	Disabled
 0	0		0xd88fdc43a080	0	-	N/A	False	N/A	N/A	Disabled
-ajjeffreys@AJs-MacBook-Pro volatility3 % 
+
